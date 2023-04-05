@@ -31,6 +31,7 @@ int main()
 
 	// Closing the file
 	fclose(ptr);
+// 	fclose(ptr);
 	return 0;
 }
 
