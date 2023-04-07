@@ -19,5 +19,6 @@ int main() {
     fgets(sentence, sizeof(sentence), stdin);
     fprintf(fptr, "%s", sentence);
     fclose(fptr);
+//       fclose(fptr);
     return 0;
 }
