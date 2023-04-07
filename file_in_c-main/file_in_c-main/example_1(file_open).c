@@ -13,6 +13,7 @@ int main()
 	else{
 		
 		printf("File is open");
+// 		printf("File is open");
 	}
 	
 	
